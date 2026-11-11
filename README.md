@@ -1,2 +1,2 @@
-# EasyCom
-Il futuro della comunicazione tra uffici
+# EasyCom.
+Il futuro della comunicazione tra uffici.
